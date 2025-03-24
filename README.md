@@ -20,9 +20,6 @@ Authentication: JWT-based secure login
 Admin Dashboard: Custom-built for managing bookings
 
 🚀 Setup & Installation:
-1. Clone the repository:
-git clone https://github.com/your-username/barbershop-booking.git
-cd barbershop-booking
 
 2. Install dependencies:
   npm install
