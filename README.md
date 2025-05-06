@@ -57,10 +57,15 @@ A modern and fully functional Barbershop Booking System built with HTML, CSS, Ja
 ### 📸 Screenshots:
 
 - **User Booking Interface**  
-   ![User booking interface](4.png)
+   ![User booking interface](1.png)
+  ![User booking interface](2.png)
+  ![User booking interface](3.png)
+  ![User booking interface](4.png)
+  ![User booking interface](5.png)
 
 - **Admin Dashboard**  
-  *Screenshot of the admin panel with a list of scheduled appointments and controls for editing.*
+   ![Admin Login](Admin Login.png)
+  ![Admin Login](Admin Interface.png)
 
 - **Mobile View**  
   *Screenshot showing the responsive layout on a mobile device.*
